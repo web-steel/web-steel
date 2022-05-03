@@ -5,7 +5,7 @@
   
   ### Hi there 👋
   
-  <a href="https://www.linkedin.com/in/vladimir-markov"><img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/vladimir-markov" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
   I'm a Full Stack Developer from Minsk/Belarus
 
@@ -43,10 +43,10 @@
   ### Github Streaks
 
   <div align="center">
-    <a href="https://github.com/web-steel">
+    <a href="https://github.com/web-steel" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=web-steel&show_icons=true&bg_color=0E1117&hide_border=true&hide_title=true&icon_color=59E7169B&text_color=FFF&title_color=59E7169B" />
     </a>
-    <a href="https://github.com/web-steel">
+    <a href="https://github.com/web-steel" target="_blank">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=web-steel&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0E1117&ring=59E7169B&fire=59E7169B&currStreakLabel=59E7169B&stroke=0E1117" />
     </a>
   </div>
