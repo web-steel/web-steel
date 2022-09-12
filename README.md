@@ -9,6 +9,8 @@
 
 <a href="https://www.linkedin.com/in/vladimir-markov"><img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
+<a href="https://github.com/web-steel/web-steel/raw/main/resume.pdf"><img align="right" src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Resume Badge"/></a>
+
 I'm a Full Stack Developer from Minsk/Belarus
 
 ---
