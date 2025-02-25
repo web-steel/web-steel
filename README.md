@@ -40,6 +40,7 @@ I'm a Full Stack Developer from Minsk/Belarus
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
 ---
